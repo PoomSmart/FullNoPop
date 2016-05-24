@@ -1,0 +1,8 @@
+Package: org.thebigboss.fullnopop
+Name: FullNoPop
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide character preview in secure text entry.
+Author: PoomSmart
+Section: Tweaks
